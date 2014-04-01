@@ -1,4 +1,7 @@
-.sass-cache
-_deploy
-public
-.pygments-cache
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
